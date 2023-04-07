@@ -1,0 +1,15 @@
+body {
+    background-color: bisque;
+}
+
+.title{
+    color: aqua;
+}
+
+#subtitle{
+    font-size: xx-large;
+}
+.personal{
+    height: 200px;
+    width: 150px;
+}
